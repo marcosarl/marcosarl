@@ -15,7 +15,7 @@
   
 - 📊 Visite meu repositório, onde estou colocando os meus projetos
   * [Projetos Power BI](https://github.com/marcosarl/Power-BI)
-  * [Gestão da Informação e do Conhecimento](https://github.com/marcosarl/InfoConhecimento)
+  * [Gestão da Informação e do Conhecimento](https://github.com/marcosarl/Gestao-da-Informacao-e-do-Conhecimento)
 
 - 💬 Pergunte-me sobre: **Data Analyst | Business Intelligence | Python | SQL | Excel**
 
