@@ -7,7 +7,7 @@
 
 - 👨‍🎓 Estou aprendendo **Python, SQL e Power BI**
 
-- 📕 O que estou lendo
+- 📕 O que estou lendo:
   * [Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Linguagem-SQL-Abordagem-Iniciantes/dp/8575225014)
   * [Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios](https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681)
 
