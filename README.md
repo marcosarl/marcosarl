@@ -10,7 +10,7 @@
 - 📕 O que estou lendo:
   * [Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Linguagem-SQL-Abordagem-Iniciantes/dp/8575225014)
   * [Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios](https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681)
-  * [Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Linguagem-SQL-Abordagem-Iniciantes/dp/8575225014)
+  * [Data Science para negócios: o que você precisa saber sobre mineração de dados e pensamento analítico de dados](https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726/ref=asc_df_8576089726/?tag=googleshopp06-20&linkCode=df0&hvadid=379713718288&hvpos=&hvnetw=g&hvrand=4461041444588207382&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-398225631558&psc=1&mcid=e728759e9a023c558c8778e270cb325d)
   * [Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios](https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681)
 
 - 📚 Os livros que já li: [Data Story](https://www.amazon.com.br/Data-Story-Explique-inspire-hist%C3%B3rias/dp/6555203013)
