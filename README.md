@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Marcos Antonio R. Lima 🖖</h1>
-<h3 align="center">Especialista em Gestão da Informação e do Conhecimento, Inovação e transformação digital. Consultor estratégico em Gestão do Conhecimento.</h3>
+<h3 align="center">Especialista em Gestão da Informação e do Conhecimento, Inovação e Transformação Digital. Consultor estratégico em Gestão do Conhecimento.</h3>
 
 - 👨‍🎓 Atualmente, estou estudando, para melhorar as minhas habilidades.
   * [Formação Analista de Dados | Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-analista-de-dados-40-lc)
