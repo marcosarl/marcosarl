@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Marcos Antonio R. Lima 🖖</h1>
-<h3 align="center">Especialista em gestão da informação e do conhecimento, inovação e transformação digital. Consultor estratégico em gestão do conhecimento.</3>
+<h3 align="center">Especialista em Gestão da Informação e do Conhecimento.</h3>
 
 - 👨‍🎓 Atualmente, estou estudando, para melhorar as minhas habilidades.
   * [Formação Analista de Dados | Data Science Academy](https://www.datascienceacademy.com.br/bundle/formacao-analista-de-dados-40-lc)
@@ -10,7 +10,6 @@
 - 📕 O que estou lendo:
   * [Introdução à Linguagem SQL: Abordagem Prática Para Iniciantes](https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Linguagem-SQL-Abordagem-Iniciantes/dp/8575225014)
   * [Storytelling com dados: Um guia sobre visualização de dados para profissionais de negócios](https://www.amazon.com.br/Storytelling-com-Dados-Visualiza%C3%A7%C3%A3o-Profissionais/dp/8550804681)
-  * [Data Science para negócios: o que você precisa saber sobre mineração de dados e pensamento analítico de dados](https://www.amazon.com.br/Data-Science-para-neg%C3%B3cios-Fawcett/dp/8576089726/ref=asc_df_8576089726/?tag=googleshopp06-20&linkCode=df0&hvadid=379713718288&hvpos=&hvnetw=g&hvrand=4461041444588207382&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=1001773&hvtargid=pla-398225631558&psc=1&mcid=e728759e9a023c558c8778e270cb325d)
 
 - 📚 Os livros que já li: [Data Story](https://www.amazon.com.br/Data-Story-Explique-inspire-hist%C3%B3rias/dp/6555203013)
   
@@ -21,6 +20,8 @@
 - 💬 Pergunte-me sobre: **Data Analyst | Business Intelligence | Python | SQL | Excel**
 
 - 📫 Você me acha através do e-mail: **marcosarodrigueslima@gmail.com**
+
+- 🔗 LinkedIn [https://www.linkedin.com/in/marcosarl](https://www.linkedin.com/in/marcosarl/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
