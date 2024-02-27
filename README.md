@@ -14,7 +14,7 @@
 - 📚 Os livros que já li: [Data Story](https://www.amazon.com.br/Data-Story-Explique-inspire-hist%C3%B3rias/dp/6555203013)
   
 - 📊 Visite meu repositório, onde estou colocando os meus projetos
-  * [Business Intelligence](https://github.com/marcosarl/Power-BI)
+  * [Business Intelligence (BI)](https://github.com/marcosarl/Power-BI)
   * [Gestão da Informação e do Conhecimento](https://github.com/marcosarl/Gestao-da-Informacao-e-do-Conhecimento)
 
 - 💬 Pergunte-me sobre: **Data Analyst | Business Intelligence | Python | SQL | Excel**
