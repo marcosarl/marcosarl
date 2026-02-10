@@ -14,7 +14,7 @@ Nos últimos anos, tenho aprofundado meus conhecimentos em **tecnologia e análi
 
 ---
 
-## 📌 Projetos Públicos
+## 📌 Últimos projetos
 
 | Projeto                                                     | Descrição                                                                                                      | Tecnologias                                   |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
