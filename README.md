@@ -31,23 +31,6 @@ Nos últimos anos, tenho aprofundado meus conhecimentos em **tecnologia e análi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosarl&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosarl&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=marcosarl&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 🧠 Áreas de Atuação
 
 * Gestão Documental
@@ -60,38 +43,16 @@ Nos últimos anos, tenho aprofundado meus conhecimentos em **tecnologia e análi
 
 ---
 
-## 🏆 Projetos de Destaque
-
-### 📂 Escritório Sem Papel
-
-Projeto completo de digitalização e reorganização documental, eliminando mais de **5.000 pastas físicas**, reduzindo **1 tonelada de papel** e desativando totalmente o arquivo físico.
-
----
-
-### 🚀 Implantação CRM RD Station
-
-Implantação completa do RD Station CRM, incluindo **parametrização, integração de processos e treinamento de equipes**.
-
----
-
-### 🔄 Fusões & Reestruturações Empresariais
-
-Atuação em processos críticos de **fusão e dissolução de empresas**, garantindo continuidade operacional e integração de sistemas.
-
----
-
-### 🔐 Comitê de Cybersecurity & LGPD
-
-Participação ativa na definição de **políticas de segurança da informação**, gestão de riscos e conformidade com a **LGPD**.
-
----
-
 ## 📌 Projetos Públicos
 
-| Projeto                                                 | Descrição                                                | Tecnologias             |
-| ------------------------------------------------------- | -------------------------------------------------------- | ----------------------- |
-| [Despapelize](https://marcosarl.github.io/despapelize/) | Site institucional para startup de transformação digital | HTML • CSS • JS         |
-| Em breve                                                | Dashboards, automações e análises de dados               | Python • SQL • Power BI |
+| Projeto                                                     | Descrição                                                                                                      | Tecnologias                                   |
+| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| **Escritório Sem Papel**                                    | Digitalização de mais de 5.000 pastas, eliminação de 1 tonelada de papel e desativação total do arquivo físico | Gestão Documental • Digitalização • Automação |
+| **Implantação CRM RD Station**                              | Parametrização, integração de processos e treinamento de equipes em 3 meses, com 90% de adesão                 | CRM • Automação • Processos                   |
+| **Fusões & Reestruturações Empresariais**                   | Integração de sistemas e continuidade operacional em processos de fusão e dissolução                           | Processos • Integração • Governança           |
+| **Comitê de Cybersecurity & LGPD**                          | Definição de políticas de segurança da informação, gestão de riscos e compliance LGPD                          | Segurança • LGPD • Governança                 |
+| [**Despapelize**](https://marcosarl.github.io/despapelize/) | Site institucional para startup de transformação digital                                                       | HTML • CSS • JavaScript                       |
+| **Dashboards & Automações (em breve)**                      | Projetos de BI, análise de dados e automações                                                                  | Python • SQL • Power BI                       |
 
 ---
 
