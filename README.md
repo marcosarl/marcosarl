@@ -37,14 +37,6 @@ Nos últimos anos, tenho aprofundado meus conhecimentos em **tecnologia e análi
 * Segurança da Informação
 * LGPD
 
-----------|-------------|---------------|
-| **Escritório Sem Papel** | Digitalização de mais de 5.000 pastas, eliminação de 1 tonelada de papel e desativação total do arquivo físico | Gestão Documental • Digitalização • Automação |
-| **Implantação CRM RD Station** | Parametrização, integração de processos e treinamento de equipes em 3 meses, com 90% de adesão | CRM • Automação • Processos |
-| **Fusões & Reestruturações Empresariais** | Integração de sistemas e continuidade operacional em processos de fusão e dissolução | Processos • Integração • Governança |
-| **Comitê de Cybersecurity & LGPD** | Definição de políticas de segurança da informação, gestão de riscos e compliance LGPD | Segurança • LGPD • Governança |
-| [**Despapelize**](https://marcosarl.github.io/despapelize/) | Site institucional para startup de transformação digital | HTML • CSS • JavaScript |
-| **Dashboards & Automações (em breve)** | Projetos de BI, análise de dados e automações | Python • SQL • Power BI |
-
 ---
 
 ## 🛠️ Tech Stack
