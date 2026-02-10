@@ -27,7 +27,7 @@ Nos últimos anos, tenho aprofundado meus conhecimentos em **tecnologia e análi
 
 ---
 
-## 🧠 Áreas de Atuação
+## 🧠 Áreas de atuação
 
 * Gestão Documental
 * Transformação Digital
@@ -39,7 +39,7 @@ Nos últimos anos, tenho aprofundado meus conhecimentos em **tecnologia e análi
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 <div align="center">
 
@@ -48,15 +48,12 @@ Nos últimos anos, tenho aprofundado meus conhecimentos em **tecnologia e análi
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 </div>
 
 ---
 
-## 🌱 Atualmente Estudando
+## 🌱 Atualmente estudando
 
 * MBA | Preservação e Gestão de Documentos Digitais
 * Fundamentos de Linguagem Python - Do Básico a Aplicação de IA
