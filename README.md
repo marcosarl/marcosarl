@@ -23,7 +23,6 @@ Nos últimos anos, tenho aprofundado meus conhecimentos em **tecnologia e análi
 | **Fusões & Reestruturações Empresariais**                   | Integração de sistemas e continuidade operacional em processos de fusão e dissolução                           | Processos • Integração • Governança           |
 | **Comitê de Cybersecurity & LGPD**                          | Definição de políticas de segurança da informação, gestão de riscos e compliance LGPD                          | Segurança • LGPD • Governança                 |
 | [**Despapelize**](https://marcosarl.github.io/despapelize/) | Site institucional para startup de transformação digital                                                       | HTML • CSS • JavaScript                       |
-| **Dashboards & Automações (em breve)**                      | Projetos de BI, análise de dados e automações                                                                  | Python • SQL • Power BI                       |
 
 ---
 
