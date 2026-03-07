@@ -54,9 +54,10 @@ Nos últimos anos, tenho aprofundado meus conhecimentos em **tecnologia e análi
 
 ## 🌱 Atualmente estudando
 
-* MBA | Preservação e Gestão de Documentos Digitais
-* Fundamentos de Linguagem Python - Do Básico a Aplicação de IA
-* Microsoft Power BI Para Business Intelligence e Data Science
+* Arquivologia | Uniasselvi
+* MBA | Preservação e Gestão de Documentos Digitais | Anhaguera Educacional
+* Fundamentos de Linguagem Python - Do Básico a Aplicação de IA | D.S.A
+* Microsoft Power BI Para Business Intelligence e Data Science | D.S.A
 
 ---
 
