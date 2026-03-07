@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim
 
-Sou movido pela combinação de três paixões: **organização, tecnologia e informação**.
+Atuo na integração entre **gestão**, **tecnologia** e **informação**, promovendo **tratamento**, a **preservação** e o **acesso**.
 
 Atuo há mais de **15 anos com gestão documental**, com experiência em escritórios de advocacia e empresas de diversos portes. Minha trajetória envolve desde a organização de arquivos físicos e digitais até a **liderança de projetos de digitalização, automação de processos e implantação de sistemas de gestão documental**.
 
